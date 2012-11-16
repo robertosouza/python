@@ -1,4 +1,0 @@
-python
-======
-
-Exercicios de python
